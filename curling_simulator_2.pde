@@ -70,8 +70,8 @@ PImage sketch;
 float real_time, delta_time;
 
 void setup() {  
-  // to size at less than full screen, use for example: size(1920,1080,P3D);
-  fullScreen(P3D);
+  size(1280,800,P3D);
+  // fullScreen(P3D);
   smooth(8);
   
   // prepare audio objects:
