@@ -9,10 +9,10 @@ The instructions below are specifically geared toward installation on a Mac, as 
 *** Note to users who have already upgraded to MacOS BigSur: as of this writing, the installation of the Processing app (see below) on your machine, in such a way that the camera operates properly, involves a series of steps that is beyond the scope of this write-up. See https://github.com/processing/processing4 if you're really ambitious, and expect to suffer.
 
 #### 1. Install Processing
-This code runs on the Processing platform and requires the user to download and install Processing (processing.org/download). Download the version for your operating system, unzip the folder, and move the Processing.app file to a good place on your computer, commonly the Applications folder.
+This code runs on the Processing platform and requires the user to download and install Processing (https://processing.org/download). Download the version for your operating system, unzip the folder, and move the Processing.app file to a good place on your computer, commonly the Applications folder.
 
 #### 2. Download Github files 
-Go to github.com/hackinshack/curling_simulator_2 and hit the green "Code" button in the upper right of the repository.  Download the zip file containing the code, unzip it, and rename the unzipped folder "curling_simulator_2" (removing the -main extension).
+Go to https://github.com/hackinshack/curling_simulator_2 and hit the green "Code" button in the upper right of the repository.  Download the zip file containing the code, unzip it, and rename the unzipped folder "curling_simulator_2" (removing the -main extension).
 
 #### 3. Load the program
 Move the curling_simulator_2 folder to the location that Processing uses as its "Sketchbook" folder.  This is typically Documents/Processing on the Mac.  
